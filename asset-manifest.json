@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/celebal-week1/static/css/main.147eb382.css",
+    "main.js": "/celebal-week1/static/js/main.a6e40ea2.js",
+    "static/js/453.db0b5b74.chunk.js": "/celebal-week1/static/js/453.db0b5b74.chunk.js",
+    "static/media/WGkW.gif": "/celebal-week1/static/media/WGkW.52b391105ccaeb3279d2.gif",
+    "index.html": "/celebal-week1/index.html",
+    "main.147eb382.css.map": "/celebal-week1/static/css/main.147eb382.css.map",
+    "main.a6e40ea2.js.map": "/celebal-week1/static/js/main.a6e40ea2.js.map",
+    "453.db0b5b74.chunk.js.map": "/celebal-week1/static/js/453.db0b5b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.147eb382.css",
+    "static/js/main.a6e40ea2.js"
+  ]
+}
